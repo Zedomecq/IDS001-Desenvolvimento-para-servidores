@@ -1,0 +1,25 @@
+Projeto P1: Sistema de Concessionária de Veículos
+Este projeto foi desenvolvido como avaliação (P1) para a disciplina de Orientação a Objetos. Trata-se de uma simulação em Java de um sistema de gerenciamento de vendas para uma concessionária de veículos, aplicando os principais conceitos do paradigma orientado a objetos.
+
+Funcionalidades
+A principal funcionalidade do sistema é registrar vendas de veículos e calcular a comissão do vendedor com base em uma regra de negócio específica: a idade do veículo.
+
+O cálculo da comissão segue a seguinte lógica:
+
+Todos os vendedores recebem uma comissão base sobre o valor da venda.
+
+Um bônus percentual é adicionado a essa comissão, variando de acordo com a idade do carro.
+
+Quanto mais antigo o carro, maior a porcentagem de bônus na comissão, criando um incentivo para a venda de estoque mais antigo.
+
+O programa simula a criação de múltiplos carros e vendedores, registra algumas vendas e, ao final, exibe um relatório completo no console com os detalhes de cada transação e a comissão final calculada.
+
+
+
+
+Nome: José Henrique Ferreira Barbosa
+
+
+Disciplina: Desenvolvimento para Servidores I
+
+Professor: Marcos Costa de Sousa
